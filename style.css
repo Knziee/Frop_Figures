@@ -21,9 +21,6 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    
-
-
     background: #288a2b;
 
 }
@@ -125,7 +122,7 @@ body .novidades {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 34px;
+    font-size: 27px;
     padding: 60px 0 0 0;
 }
 .products {
@@ -156,11 +153,156 @@ font-size: 19px;
     color: #69da6b;
 }
 
+footer {
+    width: 100%;
+    height: 76px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #288a2b;
+    
+}
 
+footer .sobre {
+    color: #fff;
+}
+
+footer .socialmedia {
+color: #fff;
+}
+footer .socialmedia  ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0 0 800px;
+    }
+
+    footer .socialmedia  ul li{
+    padding: 5px;
+    }
 
 /* RESPONSIVIDADE */
 
+@media only screen and (max-width: 1024px) {
+   
+    .mediumenu {
+        padding-right: 220px;
+        padding-left: 220px; 
+    }
+    
+    body .banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 115px 140px 0 0;
+    }
+    
+    body .bannerimg {
+    width: 150%;
+    }
+
+    footer .socialmedia  ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0 0 600px;
+    }
+
+}
 
 @media only screen and (max-width: 480px) {
+    header .logo
+{ 
+    padding: 0px 10px 0 0;
+}
+
+header {
+
+    height: 166px;
+    flex-wrap: wrap;
+}
+    
+header .navigation li
+{
+    margin: 12px 50px 5px 20px;
+    color: #ffffff;
+}
+header .far {
+    color: #fff;
+    font-size: 22px;
+}
+
+header .fa-shopping-cart {
+    margin: 0 0  0;
+    color: #fff;
+    font-size: 22px;
+}
+
+header .searchbox {
+    padding: 5px 38px 0 25px;
     
 }
+header .searchboxelement {
+    height: 120%
+
+}
+
+header .search {
+    height: 160%;
+    width: 112%;
+    padding: 0 0 0 85px;
+}
+
+.mediumenu {
+    top: 138px;
+    padding-right: 20px;
+    padding-left: 0px;
+}
+
+.mediumenu ul {
+    font-size: 12px;
+}
+.mediumenu ul li {
+    padding: 5px;
+ 
+}
+.todasasofertas {
+    font-size: 11px;
+}
+
+body .banner {
+
+    padding: 193px 50px 0 0;
+    
+}
+body .bannerimg {
+    width: 500px;
+    }
+
+    .products {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        margin-left: 60px;
+    }
+
+
+    footer {
+        width: 100%;
+        height: 76px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #288a2b;
+        
+    }
+    
+    footer .socialmedia  ul{
+        padding: 0 0 0 80px;
+        }
+    
+        footer .socialmedia  ul li{
+        font-size: 31px;
+        }
+
+}
+
+
