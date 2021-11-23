@@ -106,7 +106,11 @@ header .search {
     justify-content: space-between;
     align-items: center;
     color: rgb(2, 2, 2);
+    font-size: 14px;
 
+}
+.todasasofertas {
+    font-weight: 700;
 }
 
 body .banner {
@@ -124,8 +128,33 @@ body .novidades {
     font-size: 34px;
     padding: 60px 0 0 0;
 }
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    margin-left: 17px;
+}
+.product p {
+    text-align: center;
 
+}
 
+.products img {
+    max-width: 250px ;
+    max-height: 320px ;
+}
+.namefig {
+font-weight: 800;
+font-size: 23px;
+}
+.madeby {
+font-size: 19px;
+
+}
+.price {
+    font-size: 14px;
+    color: #69da6b;
+}
 
 
 
