@@ -156,7 +156,76 @@ body .novidades {
     font-size: 27px;
     padding: 60px 0 0 0;
 }
+/* pagina do produto */
 
+body .paginadoproduto {
+    display:flex;
+    padding-top: 6%;
+    padding-left: 10%;
+    padding-right: 10%;
+   
+}
+body .meguminfotoproduto {
+    width: 80%;
+}
+body .caixainfoproduto {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+body .titulodoproduto {
+    font-size: 30px;
+    font-weight: 700;
+    /* border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color:rgba(109, 109, 109, 0.24); */
+}
+
+body .complementosdoproduto {
+    padding-top: 7%;
+
+}
+
+
+body .preçodoproduto {
+    padding-top: 7%;
+    font-size: 40px;
+}
+
+body .parcelado {
+color: #69da6b;
+}
+
+body .botaocomprar {
+    padding-top: 7%;
+}
+
+body .compraragora {
+    background-color:#69da6b ;
+    border: none;
+    color: white;
+    padding: 15px 62px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    font-weight: 700;
+    
+}
+
+body .maisfotosdoproduto {
+    padding-top: 20%;
+
+}
+body .maisfotostexto {
+    font-size: 40px;
+    text-align: center;
+}
+body .fotospraalinhar {
+
+}
 
 body .todasasofertastitulo {
     display: flex;
@@ -435,7 +504,11 @@ body .bannerimg {
 
 }
 
-
+body .titulomaior {
+    padding-top: 200px;
+    font-size: 60px;
+    padding-left: 10px;
+}
 
 
 
