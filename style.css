@@ -167,6 +167,16 @@ body .paginadoproduto {
 }
 body .fotoprincipal {
     width: 80%;
+
+}
+.fotoprincipalvi {
+    width: 400px;
+    padding-right: 30px;
+}
+.fotoprincipaljinx {
+    width: 380px;
+    padding-right: 30px;
+    
 }
 body .caixainfoproduto {
     display: flex;
