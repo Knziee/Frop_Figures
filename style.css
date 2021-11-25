@@ -163,25 +163,42 @@ body .paginadoproduto {
     padding-top: 6%;
     padding-left: 10%;
     padding-right: 10%;
+
+    justify-content: center;
    
 }
 body .fotoprincipal {
     width: 80%;
 
 }
+body .fotoprincipalmichael {
+    width: 60%;
+}
+
+.fotoprincipalnobara {
+    width: 70%;
+}
 .fotoprincipalvi {
-    width: 400px;
-    padding-right: 30px;
+    width: 480px;
+    margin-left: 100px;
 }
 .fotoprincipaljinx {
-    width: 380px;
-    padding-right: 30px;
+    width: 480px;
+    margin-left: 100px;
     
 }
+.infodoprodutovi {
+margin-left: 100px;
+}
+
+.infodoprodutojinx {
+    margin-left: 100px;
+    }
+
 body .caixainfoproduto {
     display: flex;
     flex-direction: column;
-    
+ 
 }
 
 body .titulodoproduto {
@@ -195,6 +212,9 @@ body .titulodoproduto {
 body .complementosdoproduto {
     padding-top: 7%;
 
+}
+ ul{
+    margin-left: -40px;
 }
 
 
@@ -222,6 +242,7 @@ body .compraragora {
     font-size: 16px;
     border-radius: 12px;
     font-weight: 700;
+    cursor: pointer;
     
 }
 
@@ -244,16 +265,7 @@ body .foto2 {
     
 }
 
-body .foto2:hover{
-    transform: scale(1.5);
 
-
-}
-body .foto3:hover{
-    transform: scale(1.5);
-
-
-}
 body .foto3 {
     display: block;
     margin-left: auto;
@@ -512,15 +524,18 @@ body .bannerimg {
     width: 500px;
     }
 
-    .products {
+.products {
         display: flex;
         flex-wrap: wrap;
         align-items: baseline;
-        margin-left: 60px;
+        margin-left: 65px;
     }
 
+ul {
+ margin-left: 0%;
+    }
 
-    footer {
+footer {
         width: 100%;
         height: 76px;
         display: flex;
@@ -529,8 +544,9 @@ body .bannerimg {
         background: #288a2b;
         
     }
+
     
-    footer .socialmedia  ul{
+footer .socialmedia  ul{
         padding: 0 0 0 80px;
         }
     
@@ -584,6 +600,11 @@ body .emparcelado {
 body .botaocomprar {
     padding-left: 12%;
 }
+
+.maisfotosdoproduto
+ { 
+     margin-left: -20px;
+ }
 body .foto2 {
     width: 80%;
     
@@ -592,4 +613,25 @@ body .foto3 {
     width: 80%;
 
 }
+
+.fotoprincipalmichael {
+    margin-left: 60px;
+}
+
+.fotoprincipalnobara {
+    margin-left: 50px;
+}
+
+.fotoprincipalvi {
+    width: 110%;
+    margin-left: -10px;
+
+}
+
+.fotoprincipaljinx {
+    width: 110%;
+    margin-left: -10px;
+
+}
+
 }
