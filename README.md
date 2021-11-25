@@ -11,7 +11,9 @@ HTML5
 # Navegadores homologados:
 
 # Dispositivos:
-Responsivo para as seguintes larguras de resolução 1280, 1024 e 375
+<h1>Responsivo APENAS para as seguintes larguras de resolução 1280, 1024 e 375</h1>
+
+(queria otimizar pra 1920 e 2560 mas aí eu teria que refazer toda responsividade :c)
 
 LICENCA
 
