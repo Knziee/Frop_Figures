@@ -16,19 +16,11 @@ Se trata de uma loja que vende estatuas colecionaveis
 
 ## Imagens de algumas paginas do projeto
 
-### - O site possui seções
-![Funcao criar](/public/imagens/funcaoinserirp1.png "Funcao criar")
-![Funcao criar1](/public/imagens/funcaoinserir2.png "Funcao criar")
-### - Visualização de serviços inseridos na plataforma
-![Funcao visualizadora](/public/imagens/teladosite.png "Funcao visualizadora")
-### - Atualização de serviços da plataforma
-![Funcao Edit1](/public/imagens/funcaoeditar.png "Funcao Edit")
-![Funcao Edit1](/public/imagens/funcaoeditar2.png "Funcao Edit")
-### - Função de pré visualização de imagem
-![Funcao am](/public/imagens/amostradeimg.png "Funcao am")
-### - Exclusão de serviços da plataforma
-![Funcao exclui](/public/imagens/funcaoexcluir.png "Funcao exclui")
-![Funcao exclui1](/public/imagens/funcaoexcluir2.png "Funcao exclui1")
+### - Pagina inicial
+![homepage](/images/homePage.png "homepage")
+
+### - Pagina sessão games
+![gamespage](/images/gamesPage.png "games")
 
 ## Link para pre visualização
 https://knziee.github.io/Fropp_Figures/
