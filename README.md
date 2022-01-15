@@ -1,22 +1,36 @@
-# Fropp Store
+# Ecommerce Fropp Store
 
-A loja foi desenvolvida para o projeto Hands On
-É uma loja de estatuas colecionaveis
+## Sobre o projeto:
+A loja foi desenvolvida para o desafio Hands On da Gama Academy
+Se trata de uma loja que vende estatuas colecionaveis
 
-# Tecnologias utilizadas
+## Linguagens utilizadas:
+- HTML
+- CSS
 
-CSS3
-HTML5
+## Resposividade:
+ Supostamente otimizado para as resoluções de tela:
+ - Desktop (1280x720px);
+ - Tablet (1024x768px);
+ - Celular (375x812px).
 
-# Navegadores homologados:
+## Imagens de algumas paginas do projeto
 
-# Dispositivos:
-Responsivo apenas para as seguintes larguras de resolução 1280, 1024 e 375
+### - O site possui seções
+![Funcao criar](/public/imagens/funcaoinserirp1.png "Funcao criar")
+![Funcao criar1](/public/imagens/funcaoinserir2.png "Funcao criar")
+### - Visualização de serviços inseridos na plataforma
+![Funcao visualizadora](/public/imagens/teladosite.png "Funcao visualizadora")
+### - Atualização de serviços da plataforma
+![Funcao Edit1](/public/imagens/funcaoeditar.png "Funcao Edit")
+![Funcao Edit1](/public/imagens/funcaoeditar2.png "Funcao Edit")
+### - Função de pré visualização de imagem
+![Funcao am](/public/imagens/amostradeimg.png "Funcao am")
+### - Exclusão de serviços da plataforma
+![Funcao exclui](/public/imagens/funcaoexcluir.png "Funcao exclui")
+![Funcao exclui1](/public/imagens/funcaoexcluir2.png "Funcao exclui1")
 
-(queria otimizar pra 1920 e 2560 mas aí eu teria que refazer toda responsividade :c)
+## Desenvolvido por:
+- Rhuan Martins Teixeira
 
-LICENCA
 
-Desenvolvido por knziee
-
-Status do projeto
