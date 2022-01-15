@@ -30,6 +30,9 @@ Se trata de uma loja que vende estatuas colecionaveis
 ![Funcao exclui](/public/imagens/funcaoexcluir.png "Funcao exclui")
 ![Funcao exclui1](/public/imagens/funcaoexcluir2.png "Funcao exclui1")
 
+## Link para pre visualização
+https://knziee.github.io/Fropp_Figures/
+
 ## Desenvolvido por:
 - Rhuan Martins Teixeira
 
